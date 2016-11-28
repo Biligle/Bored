@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--底部导航-->
+    <declare-styleable name="TabWidget">
+    <attr name="bottom_labels" format="reference" />
+        <attr name="bottom_labels_drawable" format="reference"/>
+    </declare-styleable>
+</resources>

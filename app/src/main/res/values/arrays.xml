@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 首页导航文字 -->
+    <string-array name="bottom_bar_labels">
+        <item>行尸走肉</item>
+        <item>文艺范儿</item>
+        <item>有趣视频</item>
+        <item>其他</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">无聊君</string>
+    <string name="title">标题</string>
+    <string name="phone">账号</string>
+    <string name="password">密码</string>
+    <string name="login">登录</string>
+</resources>
